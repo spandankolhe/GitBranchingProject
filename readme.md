@@ -3,7 +3,7 @@
 
 In real-world software development, multiple developers work on the same project simultaneously. If everyone directly modifies the main branch (main), it can easily break the stable version of the project. To solve this, developers use Git branching, which allows creating independent lines of development called branches.
 
-![](images/versions)
+![](images/versions.png)
 
 
 ## Branches help to:
@@ -137,4 +137,5 @@ Committed changes separately in each branch
 Merged all branches into main
 
 Pushed the final project to GitHub
+
 
